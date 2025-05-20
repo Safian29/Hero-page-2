@@ -492,7 +492,7 @@ form::placeholder{
 
     .right{
     width: 900px;
-    height: 270vh;
+    height: fit-content;
     padding: 60px 60px;
     max-width: fit-content;
     margin-left: 110px;
